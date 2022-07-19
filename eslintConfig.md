@@ -1,5 +1,3 @@
-ESLINT CONFIG
-
 
 {
     "env": {
