@@ -1,6 +1,6 @@
 ESLINT CONFIG
 
-/*
+
 {
     "env": {
         "es2020": true,
@@ -80,4 +80,4 @@ ESLINT CONFIG
         }
     }
 }
-*/
+
